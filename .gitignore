@@ -1,0 +1,16 @@
+pycache/
+*.pyc
+*.pyo
+data/
+models/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.log
+*.csv
+*.h5
+.vscode/
+*.swp
+*~
+*.egg-info/
+.eggs/" > .gitignore
